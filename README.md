@@ -3,6 +3,10 @@
 An interactive geography app with three modes: an AI-powered world map, a flag quiz, and a border-pathfinding puzzle.
 
 ---
+## Screenshots
+
+<img src="assets/worldmap.png" />
+<img src="assets/borderline.png" />
 
 ## Features
 
